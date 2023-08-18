@@ -19,8 +19,6 @@ Flutter Portfolio: - https://gitlab.com/hasan082
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hasan082&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=MdHas82)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hasan082&icon=0&color=10)](https://visitcount.itsvg.in)
