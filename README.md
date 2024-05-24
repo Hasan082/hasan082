@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Hasan. 
 
 # 💫 About Me:
-I'm a Web and Mobile Application Developer with expertise in using Flutter to build beautiful and functional mobile applications. I have experience in developing custom solutions for clients across various fields including healthcare etc
+I'm a Full Stack Application Developer with expertise in using Java, Pythoon as well as Flutter to build beautiful and functional applications. I have experience in developing custom solutions for clients across various fields including healthcare etc
 
-Flutter Portfolio: - https://gitlab.com/hasan082
+
 
 
 ## 🌐 Socials:
