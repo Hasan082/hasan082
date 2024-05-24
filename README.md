@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Hasan. 
 
 # 💫 About Me:
-I'm a Full Stack Application Developer with expertise in using Java, Pythoon as well as Flutter to build beautiful and functional applications. I have experience in developing custom solutions for clients across various fields including healthcare etc
+I'm a Full Stack Application Developer with expertise in using Java, Pythoon, Jquery/Js, React as well as Flutter to build beautiful and functional applications. I have experience in developing custom solutions for clients across various fields including healthcare etc
 
 
 
