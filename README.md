@@ -1,5 +1,5 @@
-# Hi there 👋
-# I’m Md Hasanuzzaman Hasan, a Full Stack Web Developer with a strong foundation in Data Science.
+## Hi there 👋
+## I’m Md Hasanuzzaman Hasan, a Full Stack Web Developer with a strong foundation in Data Science.
 
 # 💫 About Me:
 With 8 years of experience, specializing in Python-based frameworks like Django and Flask, along with jQuery for dynamic, responsive front-end development. I focus on building beautiful and functional web applications tailored to each client’s unique needs.<br><br>Throughout my career, I’ve delivered custom solutions across various industries, including healthcare, helping businesses streamline operations and enhance user experiences.<br><br>In addition to web development, I’m also actively working in the field of Data Science—leveraging machine learning and data analytics to solve real-world problems and extract meaningful insights from complex datasets.
