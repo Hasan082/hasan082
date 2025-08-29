@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I’m Md Hasanuzzaman Hasan, a Full Stack Web Developer with a strong foundation in Data Science.
+## I’m Md Hasanuzzaman Hasan, a Full Stack Web Developer with a strong foundation in Data Science and AI.
 
 # 💫 About Me:
 
