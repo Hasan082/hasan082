@@ -26,7 +26,6 @@ Deployment: Cloud / VPS
 
 [View Project](https://primeacademy.org/)
 
----
 
 ## 📊 GitHub Stats
 
@@ -47,7 +46,7 @@ Deployment: Cloud / VPS
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan082&radius=16&theme=radical&area=true&order=5" height="300" alt="activity-graph" />
 
 
----
-[![](https://visitcount.itsvg.in/api?id=hasan082&icon=2&color=5)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hasan082&label=VISITORS&color=ff00ff&style=for-the-badge" width="200"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
