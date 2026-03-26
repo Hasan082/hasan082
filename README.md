@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I’m Md Hasanuzzaman Hasan, a Full Stack Web Developer with a strong foundation in Data Science and AI.
+## I’m Md Hasanuzzaman Hasan, a Full Stack Web Developer with a strong foundation <br>in Data Science and AI.
 
 # 💫 About Me:
 
@@ -45,6 +45,8 @@ Deployment: Cloud / VPS
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasan082&radius=16&theme=radical&area=true&order=5" height="300" alt="activity-graph" />
 
+
+## Profile Visits
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hasan082&label=VISITORS&color=ff00ff&style=for-the-badge" width="200"/>
